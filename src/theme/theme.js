@@ -1,4 +1,4 @@
-import styled, { DefaultTheme } from "styled-components";
+import styled from "styled-components";
 
 export const colors = {
   White: "#FFFFFF",
@@ -124,5 +124,3 @@ export const Regular20 = styled.p`
   font-size: 20px;
   font-weight: 400;
 `;
-
-export default theme;
